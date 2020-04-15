@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\hi452\Documents\Visual Studio 2017\Projects\coarseIcpTest1\coarseIcpTest1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\hi452\Documents\Visual Studio 2017\Projects\coarseICPTest1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9ABE5156-15A2-3E2F-BDBA-E7F3B0E604F3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
